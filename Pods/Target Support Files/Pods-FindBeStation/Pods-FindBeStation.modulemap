@@ -1,0 +1,6 @@
+framework module Pods_FindBeStation {
+  umbrella header "Pods-FindBeStation-umbrella.h"
+
+  export *
+  module * { export * }
+}
